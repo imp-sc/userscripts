@@ -6,8 +6,8 @@
 // @description  removes locked background when popup windows opened + minor style adjustments to main ticket grid
 // @match        https://app.base99.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=base99.com
-// @updateURL    https://gist.github.com/imp-sc/d06f623bee1a30520f810f31f77ebb57/raw/b99.user.js
-// @downloadURL  https://gist.github.com/imp-sc/d06f623bee1a30520f810f31f77ebb57/raw/b99.user.js
+// @updateURL    https://github.com/imp-sc/userscripts/raw/refs/heads/main/b99.css.user.js
+// @downloadURL  https://github.com/imp-sc/userscripts/raw/refs/heads/main/b99.css.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
